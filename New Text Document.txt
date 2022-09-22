@@ -1,0 +1,1 @@
+380 -  recognizer.read("./recognizers/Trainer.yml")
